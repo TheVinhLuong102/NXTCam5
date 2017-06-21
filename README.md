@@ -1,4 +1,4 @@
-###NXTCam5 (Machine Vision for NXT and EV3)
+***XTCam5 (Machine Vision for NXT and EV3)***
 
 NXTCam5 is an open-source machine vision module based on OpenMV.
 
